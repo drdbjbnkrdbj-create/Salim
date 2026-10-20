@@ -16,7 +16,7 @@ val SalimSurface = Color(0xFFFFFFFF)
 val SalimSurfaceVariant = Color(0xFFEDF4F0)
 val SalimTextPrimary = Color(0xFF1A2621)
 val SalimTextSecondary = Color(0xFF5A6E64)
-val SalimTextMuted = Color(0xFF8A9E95)
+val SalimTextMuted = Color(0xFF66786F)
 val SalimBorder = Color(0xFFE0EAE4)
 
 // Financial Semantic Colors
