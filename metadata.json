@@ -1,0 +1,6 @@
+{
+  "name": "سليم - Salim",
+  "description": "تطبيق سليم لإدارة الحسابات الشخصية والمصروفات والديون بالريال اليمني والسعودي والدولار دون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
